@@ -14,4 +14,4 @@ If the dice numbers are the same it is a draw
 ## Draw!
 ![draw](https://user-images.githubusercontent.com/66566962/129462877-d40f28cf-0aa3-46fb-bd48-63ed6d1f32b8.png)
 
-Dice Game build using HTML CSS JS
+### Dice Game build using HTML CSS JS
